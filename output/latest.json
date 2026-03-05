@@ -10,11 +10,11 @@
       "type": "ML",
       "side": "Bucknell Bison",
       "line": null,
-      "odds": 1260,
+      "odds": 1200,
       "edge_pts": null,
-      "ev_pct": 489.8,
+      "ev_pct": 463.8,
       "model_prob": 0.434,
-      "implied": 0.074
+      "implied": 0.077
     },
     {
       "game": "UC Riverside Highlanders @ Hawai'i Rainbow Warriors",
@@ -49,17 +49,17 @@
     {
       "game": "Michigan Wolverines @ Iowa Hawkeyes",
       "time": "2026-03-06T01:00",
-      "book": "espnbet",
+      "book": "williamhill_us",
       "model_spread": -4.0,
       "pred": "62-66",
       "type": "ML",
       "side": "Iowa Hawkeyes",
       "line": null,
-      "odds": 340,
+      "odds": 345,
       "edge_pts": null,
-      "ev_pct": 95.4,
+      "ev_pct": 97.6,
       "model_prob": 0.444,
-      "implied": 0.227
+      "implied": 0.225
     },
     {
       "game": "Utah Valley Wolverines @ Southern Utah Thunderbirds",
@@ -107,36 +107,6 @@
       "implied": 0.303
     },
     {
-      "game": "Bucknell Bison @ Navy Midshipmen",
-      "time": "2026-03-06T00:00",
-      "book": "draftkings",
-      "model_spread": 4.8,
-      "pred": "63-58",
-      "type": "SPREAD",
-      "side": "AWAY Bucknell Bison",
-      "line": 16.5,
-      "odds": -102,
-      "edge_pts": 11.7,
-      "ev_pct": 68.3,
-      "model_prob": 0.85,
-      "implied": 0.505
-    },
-    {
-      "game": "Bethune-Cookman Wildcats @ Florida A&M Rattlers",
-      "time": "2026-03-06T00:30",
-      "book": "lowvig",
-      "model_spread": -10.4,
-      "pred": "59-70",
-      "type": "TOTAL",
-      "side": "UNDER 146.0",
-      "line": 146.0,
-      "odds": -103,
-      "edge_pts": 16.0,
-      "ev_pct": 67.5,
-      "model_prob": 0.85,
-      "implied": 0.507
-    },
-    {
       "game": "Tulsa Golden Hurricane @ East Carolina Pirates",
       "time": "2026-03-06T00:00",
       "book": "fanduel",
@@ -177,21 +147,6 @@
       "line": 144.5,
       "odds": -105,
       "edge_pts": 14.5,
-      "ev_pct": 66.0,
-      "model_prob": 0.85,
-      "implied": 0.512
-    },
-    {
-      "game": "Bethune-Cookman Wildcats @ Florida A&M Rattlers",
-      "time": "2026-03-06T00:30",
-      "book": "espnbet",
-      "model_spread": -10.4,
-      "pred": "59-70",
-      "type": "TOTAL",
-      "side": "UNDER 145.5",
-      "line": 145.5,
-      "odds": -105,
-      "edge_pts": 15.5,
       "ev_pct": 66.0,
       "model_prob": 0.85,
       "implied": 0.512
@@ -255,6 +210,21 @@
       "ev_pct": 66.0,
       "model_prob": 0.85,
       "implied": 0.512
+    },
+    {
+      "game": "Bucknell Bison @ Navy Midshipmen",
+      "time": "2026-03-06T00:00",
+      "book": "espnbet",
+      "model_spread": 4.8,
+      "pred": "63-58",
+      "type": "SPREAD",
+      "side": "AWAY Bucknell Bison",
+      "line": 15.5,
+      "odds": 100,
+      "edge_pts": 10.7,
+      "ev_pct": 64.2,
+      "model_prob": 0.821,
+      "implied": 0.5
     },
     {
       "game": "Sacred Heart Pioneers @ Iona Gaels",
@@ -392,21 +362,6 @@
       "implied": 0.5
     },
     {
-      "game": "Sacred Heart Pioneers @ Iona Gaels",
-      "time": "2026-03-05T23:00",
-      "book": "betmgm",
-      "model_spread": 5.4,
-      "pred": "67-62",
-      "type": "TOTAL",
-      "side": "UNDER 146.5",
-      "line": 146.5,
-      "odds": -105,
-      "edge_pts": 13.5,
-      "ev_pct": 63.5,
-      "model_prob": 0.838,
-      "implied": 0.512
-    },
-    {
       "game": "Louisiana Tech Bulldogs @ Liberty Flames",
       "time": "2026-03-06T00:00",
       "book": "fanduel",
@@ -439,7 +394,7 @@
     {
       "game": "Sacred Heart Pioneers @ Iona Gaels",
       "time": "2026-03-05T23:00",
-      "book": "fanatics",
+      "book": "williamhill_us",
       "model_spread": 5.4,
       "pred": "67-62",
       "type": "TOTAL",
@@ -499,14 +454,29 @@
     {
       "game": "Bethune-Cookman Wildcats @ Florida A&M Rattlers",
       "time": "2026-03-06T00:30",
+      "book": "fanduel",
+      "model_spread": -10.4,
+      "pred": "59-70",
+      "type": "TOTAL",
+      "side": "UNDER 145.5",
+      "line": 145.5,
+      "odds": -110,
+      "edge_pts": 15.5,
+      "ev_pct": 62.3,
+      "model_prob": 0.85,
+      "implied": 0.524
+    },
+    {
+      "game": "Bethune-Cookman Wildcats @ Florida A&M Rattlers",
+      "time": "2026-03-06T00:30",
       "book": "betmgm",
       "model_spread": -10.4,
       "pred": "59-70",
       "type": "TOTAL",
-      "side": "UNDER 146.5",
-      "line": 146.5,
+      "side": "UNDER 144.5",
+      "line": 144.5,
       "odds": -110,
-      "edge_pts": 16.5,
+      "edge_pts": 14.5,
       "ev_pct": 62.3,
       "model_prob": 0.85,
       "implied": 0.524
@@ -692,6 +662,36 @@
       "implied": 0.524
     },
     {
+      "game": "Sacred Heart Pioneers @ Iona Gaels",
+      "time": "2026-03-05T23:00",
+      "book": "lowvig",
+      "model_spread": 5.4,
+      "pred": "67-62",
+      "type": "TOTAL",
+      "side": "UNDER 146.5",
+      "line": 146.5,
+      "odds": -108,
+      "edge_pts": 13.5,
+      "ev_pct": 61.3,
+      "model_prob": 0.838,
+      "implied": 0.519
+    },
+    {
+      "game": "Bethune-Cookman Wildcats @ Florida A&M Rattlers",
+      "time": "2026-03-06T00:30",
+      "book": "lowvig",
+      "model_spread": -10.4,
+      "pred": "59-70",
+      "type": "TOTAL",
+      "side": "UNDER 145.0",
+      "line": 145.0,
+      "odds": -113,
+      "edge_pts": 15.0,
+      "ev_pct": 60.2,
+      "model_prob": 0.85,
+      "implied": 0.531
+    },
+    {
       "game": "Southern Jaguars @ Alabama A&M Bulldogs",
       "time": "2026-03-06T01:30",
       "book": "lowvig",
@@ -737,6 +737,21 @@
       "implied": 0.545
     },
     {
+      "game": "Bethune-Cookman Wildcats @ Florida A&M Rattlers",
+      "time": "2026-03-06T00:30",
+      "book": "fliff",
+      "model_spread": -10.4,
+      "pred": "59-70",
+      "type": "TOTAL",
+      "side": "UNDER 146.5",
+      "line": 146.5,
+      "odds": -125,
+      "edge_pts": 16.5,
+      "ev_pct": 53.0,
+      "model_prob": 0.85,
+      "implied": 0.556
+    },
+    {
       "game": "Tulsa Golden Hurricane @ East Carolina Pirates",
       "time": "2026-03-06T00:00",
       "book": "betus",
@@ -765,6 +780,21 @@
       "ev_pct": 52.0,
       "model_prob": 0.416,
       "implied": 0.274
+    },
+    {
+      "game": "Holy Cross Crusaders @ Lehigh Mountain Hawks",
+      "time": "2026-03-06T00:00",
+      "book": "lowvig",
+      "model_spread": 6.1,
+      "pred": "66-60",
+      "type": "TOTAL",
+      "side": "UNDER 142.0",
+      "line": 142.0,
+      "odds": -113,
+      "edge_pts": 12.0,
+      "ev_pct": 50.8,
+      "model_prob": 0.8,
+      "implied": 0.531
     },
     {
       "game": "James Madison Dukes @ Southern Miss Golden Eagles",
@@ -812,34 +842,49 @@
       "implied": 0.512
     },
     {
-      "game": "Holy Cross Crusaders @ Lehigh Mountain Hawks",
+      "game": "Louisiana Tech Bulldogs @ Liberty Flames",
       "time": "2026-03-06T00:00",
       "book": "lowvig",
-      "model_spread": 6.1,
-      "pred": "66-60",
+      "model_spread": 14.6,
+      "pred": "69-54",
+      "type": "ML",
+      "side": "Louisiana Tech Bulldogs",
+      "line": null,
+      "odds": 383,
+      "edge_pts": null,
+      "ev_pct": 48.8,
+      "model_prob": 0.308,
+      "implied": 0.207
+    },
+    {
+      "game": "Bucknell Bison @ Navy Midshipmen",
+      "time": "2026-03-06T00:00",
+      "book": "betrivers",
+      "model_spread": 4.8,
+      "pred": "63-58",
       "type": "TOTAL",
-      "side": "UNDER 141.0",
-      "line": 141.0,
+      "side": "UNDER 135.5",
+      "line": 135.5,
+      "odds": -109,
+      "edge_pts": 10.5,
+      "ev_pct": 46.2,
+      "model_prob": 0.762,
+      "implied": 0.522
+    },
+    {
+      "game": "Bucknell Bison @ Navy Midshipmen",
+      "time": "2026-03-06T00:00",
+      "book": "lowvig",
+      "model_spread": 4.8,
+      "pred": "63-58",
+      "type": "TOTAL",
+      "side": "UNDER 136.0",
+      "line": 136.0,
       "odds": -113,
       "edge_pts": 11.0,
       "ev_pct": 46.1,
       "model_prob": 0.775,
       "implied": 0.531
-    },
-    {
-      "game": "Holy Cross Crusaders @ Lehigh Mountain Hawks",
-      "time": "2026-03-06T00:00",
-      "book": "betmgm",
-      "model_spread": 6.1,
-      "pred": "66-60",
-      "type": "TOTAL",
-      "side": "UNDER 140.5",
-      "line": 140.5,
-      "odds": -110,
-      "edge_pts": 10.5,
-      "ev_pct": 45.6,
-      "model_prob": 0.762,
-      "implied": 0.524
     },
     {
       "game": "Bethune-Cookman Wildcats @ Florida A&M Rattlers",
@@ -859,32 +904,17 @@
     {
       "game": "Bucknell Bison @ Navy Midshipmen",
       "time": "2026-03-06T00:00",
-      "book": "espnbet",
-      "model_spread": 4.8,
-      "pred": "63-58",
-      "type": "TOTAL",
-      "side": "UNDER 135.5",
-      "line": 135.5,
-      "odds": -115,
-      "edge_pts": 10.5,
-      "ev_pct": 42.6,
-      "model_prob": 0.762,
-      "implied": 0.535
-    },
-    {
-      "game": "Bucknell Bison @ Navy Midshipmen",
-      "time": "2026-03-06T00:00",
-      "book": "lowvig",
+      "book": "betmgm",
       "model_spread": 4.8,
       "pred": "63-58",
       "type": "TOTAL",
       "side": "UNDER 134.5",
       "line": 134.5,
-      "odds": -108,
+      "odds": -110,
       "edge_pts": 9.5,
-      "ev_pct": 42.0,
+      "ev_pct": 40.8,
       "model_prob": 0.738,
-      "implied": 0.519
+      "implied": 0.524
     },
     {
       "game": "Bucknell Bison @ Navy Midshipmen",
@@ -917,21 +947,6 @@
       "implied": 0.498
     },
     {
-      "game": "Louisiana Tech Bulldogs @ Liberty Flames",
-      "time": "2026-03-06T00:00",
-      "book": "espnbet",
-      "model_spread": 14.6,
-      "pred": "69-54",
-      "type": "SPREAD",
-      "side": "HOME Liberty Flames",
-      "line": -8.5,
-      "odds": 100,
-      "edge_pts": 6.1,
-      "ev_pct": 36.6,
-      "model_prob": 0.683,
-      "implied": 0.5
-    },
-    {
       "game": "Manhattan Jaspers @ Fairfield Stags",
       "time": "2026-03-06T01:30",
       "book": "williamhill_us",
@@ -945,6 +960,21 @@
       "ev_pct": 36.6,
       "model_prob": 0.424,
       "implied": 0.311
+    },
+    {
+      "game": "Louisiana Tech Bulldogs @ Liberty Flames",
+      "time": "2026-03-06T00:00",
+      "book": "betus",
+      "model_spread": 14.6,
+      "pred": "69-54",
+      "type": "SPREAD",
+      "side": "HOME Liberty Flames",
+      "line": -8.0,
+      "odds": -105,
+      "edge_pts": 6.6,
+      "ev_pct": 36.3,
+      "model_prob": 0.698,
+      "implied": 0.512
     },
     {
       "game": "Drake Bulldogs @ Southern Illinois Salukis",
@@ -1005,21 +1035,6 @@
       "ev_pct": 32.9,
       "model_prob": 0.475,
       "implied": 0.357
-    },
-    {
-      "game": "Louisiana Tech Bulldogs @ Liberty Flames",
-      "time": "2026-03-06T00:00",
-      "book": "betrivers",
-      "model_spread": 14.6,
-      "pred": "69-54",
-      "type": "ML",
-      "side": "Louisiana Tech Bulldogs",
-      "line": null,
-      "odds": 330,
-      "edge_pts": null,
-      "ev_pct": 32.5,
-      "model_prob": 0.308,
-      "implied": 0.233
     },
     {
       "game": "Pepperdine Waves @ Portland Pilots",
@@ -1084,17 +1099,32 @@
     {
       "game": "Michigan Wolverines @ Iowa Hawkeyes",
       "time": "2026-03-06T01:00",
-      "book": "lowvig",
+      "book": "draftkings",
       "model_spread": -4.0,
       "pred": "62-66",
       "type": "SPREAD",
       "side": "HOME Iowa Hawkeyes",
-      "line": 9.0,
-      "odds": -107,
-      "edge_pts": 5.0,
-      "ev_pct": 25.7,
-      "model_prob": 0.65,
-      "implied": 0.517
+      "line": 8.5,
+      "odds": -102,
+      "edge_pts": 4.5,
+      "ev_pct": 25.8,
+      "model_prob": 0.635,
+      "implied": 0.505
+    },
+    {
+      "game": "Evansville Purple Aces @ Northern Iowa Panthers",
+      "time": "2026-03-06T02:30",
+      "book": "espnbet",
+      "model_spread": 21.3,
+      "pred": "70-48",
+      "type": "TOTAL",
+      "side": "UNDER 124.5",
+      "line": 124.5,
+      "odds": -105,
+      "edge_pts": 5.5,
+      "ev_pct": 24.5,
+      "model_prob": 0.637,
+      "implied": 0.512
     },
     {
       "game": "Evansville Purple Aces @ Northern Iowa Panthers",
@@ -1110,21 +1140,6 @@
       "ev_pct": 24.1,
       "model_prob": 0.65,
       "implied": 0.524
-    },
-    {
-      "game": "San Diego Toreros @ Loyola Marymount Lions",
-      "time": "2026-03-06T04:30",
-      "book": "betmgm",
-      "model_spread": 8.3,
-      "pred": "70-61",
-      "type": "ML",
-      "side": "San Diego Toreros",
-      "line": null,
-      "odds": 220,
-      "edge_pts": null,
-      "ev_pct": 23.9,
-      "model_prob": 0.387,
-      "implied": 0.312
     },
     {
       "game": "Southern Jaguars @ Alabama A&M Bulldogs",
@@ -1157,19 +1172,19 @@
       "implied": 0.505
     },
     {
-      "game": "Drake Bulldogs @ Southern Illinois Salukis",
-      "time": "2026-03-05T21:30",
-      "book": "lowvig",
-      "model_spread": 9.3,
-      "pred": "68-59",
-      "type": "SPREAD",
-      "side": "HOME Southern Illinois Salukis",
-      "line": -5.0,
-      "odds": -106,
-      "edge_pts": 4.3,
-      "ev_pct": 22.2,
-      "model_prob": 0.629,
-      "implied": 0.515
+      "game": "San Diego Toreros @ Loyola Marymount Lions",
+      "time": "2026-03-06T04:30",
+      "book": "williamhill_us",
+      "model_spread": 8.3,
+      "pred": "70-61",
+      "type": "ML",
+      "side": "San Diego Toreros",
+      "line": null,
+      "odds": 210,
+      "edge_pts": null,
+      "ev_pct": 20.0,
+      "model_prob": 0.387,
+      "implied": 0.323
     },
     {
       "game": "UC Riverside Highlanders @ Hawai'i Rainbow Warriors",
@@ -1185,6 +1200,21 @@
       "ev_pct": 20.0,
       "model_prob": 0.623,
       "implied": 0.519
+    },
+    {
+      "game": "Drake Bulldogs @ Southern Illinois Salukis",
+      "time": "2026-03-05T21:30",
+      "book": "bovada",
+      "model_spread": 9.3,
+      "pred": "68-59",
+      "type": "SPREAD",
+      "side": "HOME Southern Illinois Salukis",
+      "line": -5.5,
+      "odds": -105,
+      "edge_pts": 3.8,
+      "ev_pct": 19.9,
+      "model_prob": 0.614,
+      "implied": 0.512
     },
     {
       "game": "Tulane Green Wave @ Temple Owls",
