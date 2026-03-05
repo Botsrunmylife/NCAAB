@@ -1,0 +1,488 @@
+date,team_a,team_b,venue,score_a,score_b,actual_margin
+2025-11-04,UMBC Retrievers,Penn State-York Nittany Lions,home,74.0,53.0,21.0
+2025-11-05,App State Mountaineers,Carolina University Bruins,home,92.0,46.0,46.0
+2025-11-05,Binghamton Bearcats,RIT Tigers,home,66.0,56.0,10.0
+2025-11-05,East Tennessee State Buccaneers,Converse University Valkyries,home,102.0,50.0,52.0
+2025-11-05,Idaho State Bengals,Park University Gilbert Buccaneers,home,81.0,71.0,10.0
+2025-11-05,Little Rock Trojans,Arkansas Baptist Buffaloes,home,92.0,63.0,29.0
+2025-11-05,Manhattan Jaspers,St. Joseph's (NY) Bears,home,125.0,59.0,66.0
+2025-11-05,Middle Tennessee Blue Raiders,Milligan Buffaloes,home,100.0,51.0,49.0
+2025-11-05,Missouri State Bears,Missouri Southern State Lions,home,88.0,70.0,18.0
+2025-11-05,Monmouth Hawks,Caldwell Cougars,home,96.0,68.0,28.0
+2025-11-05,New Mexico State Aggies,Adams State Grizzlies,home,83.0,72.0,11.0
+2025-11-05,Presbyterian Blue Hose,Bluefield University Ramblin' Rams,home,105.0,76.0,29.0
+2025-11-05,Rice Owls,College Of Biblical Studies Ambassadors,home,109.0,38.0,71.0
+2025-11-05,SIU Edwardsville Cougars,East-West University Phantoms,home,119.0,50.0,69.0
+2025-11-05,Sacramento State Hornets,Dominican (CA) Penguins,home,103.0,79.0,24.0
+2025-11-05,Sacred Heart Pioneers,Merchant Marine Academy Mariners,home,103.0,46.0,57.0
+2025-11-05,San Diego Toreros,Occidental Tigers,home,88.0,59.0,29.0
+2025-11-05,Santa Clara Broncos,Humboldt State Lumberjacks,home,83.0,53.0,30.0
+2025-11-05,UC Santa Barbara Gauchos,San Francisco State Gators,home,98.0,67.0,31.0
+2025-11-05,Utah Valley Wolverines,West Coast Baptist Eagles,home,116.0,35.0,81.0
+2025-11-06,Cal Poly Mustangs,Pacific Lutheran Lutes,home,101.0,79.0,22.0
+2025-11-06,Cal State Bakersfield Roadrunners,Whittier Poets,home,83.0,61.0,22.0
+2025-11-06,Elon Phoenix,Belmont Abbey Crusaders,home,99.0,51.0,48.0
+2025-11-06,James Madison Dukes,Washington and Lee Generals,home,70.0,56.0,14.0
+2025-11-06,Lafayette Leopards,Dickinson (PA) Red Devils,home,79.0,44.0,35.0
+2025-11-06,Loyola Maryland Greyhounds,Penn St Abington Nittany Lions,home,96.0,60.0,36.0
+2025-11-06,Mercer Bears,LaGrange Panthers,home,101.0,62.0,39.0
+2025-11-06,Mississippi Valley State Delta Devils,Mississippi University For Women Owls,home,97.0,61.0,36.0
+2025-11-06,Montana Grizzlies,Ottawa (AZ) Spirit,home,73.0,39.0,34.0
+2025-11-06,Montana State Bobcats,Northwest Indian RedHawks,home,114.0,44.0,70.0
+2025-11-06,Morgan State Bears,Central Penn Knights,home,101.0,77.0,24.0
+2025-11-06,New Hampshire Wildcats,Curry College Colonels,home,113.0,31.0,82.0
+2025-11-06,Norfolk State Spartans,Regent Royals,home,119.0,55.0,64.0
+2025-11-06,Pacific Tigers,Life Pacific Warriors,home,83.0,56.0,27.0
+2025-11-06,Prairie View A&M Panthers,Dallas Crusaders,home,94.0,53.0,41.0
+2025-11-06,Queens University Royals,Lynchburg Hornets,home,87.0,76.0,11.0
+2025-11-06,Richmond Spiders,Southern Virginia Knights,home,84.0,56.0,28.0
+2025-11-06,Texas State Bobcats,Texas A&M-San Antonio Jaguars,home,114.0,55.0,59.0
+2025-11-06,UTSA Roadrunners,College Of Biblical Studies Ambassadors,home,97.0,30.0,67.0
+2025-11-06,Utah Tech Trailblazers,Bethesda University Flames,home,110.0,65.0,45.0
+2025-11-06,Vermont Catamounts,Plattsburgh St Cardinals,home,113.0,62.0,51.0
+2025-11-07,Bowling Green Falcons,Bethany (WV) Bison,home,120.0,65.0,55.0
+2025-11-07,Canisius Golden Griffins,Allegheny Gators,home,84.0,43.0,41.0
+2025-11-07,Charleston Southern Buccaneers,Toccoa Falls Eagles,home,106.0,71.0,35.0
+2025-11-07,Cleveland State Vikings,Capital Crusaders,home,71.0,70.0,1.0
+2025-11-07,Delaware Blue Hens,Wilmington (DE) Wildcats,home,62.0,71.0,-9.0
+2025-11-07,Eastern Kentucky Colonels,Midway University Eagles,home,122.0,60.0,62.0
+2025-11-07,Evansville Purple Aces,Calumet Crimson Wave,home,92.0,50.0,42.0
+2025-11-07,Hampton Pirates,Mid-Atlantic Christian Mustangs,home,103.0,43.0,60.0
+2025-11-07,Harvard Crimson,MIT Engineers,home,79.0,50.0,29.0
+2025-11-07,Howard Bison,District Of Columbia Firebirds,home,103.0,71.0,32.0
+2025-11-07,Incarnate Word Cardinals,Jarvis Christian Bulldogs,home,104.0,60.0,44.0
+2025-11-07,Indiana State Sycamores,Illinois Tech Scarlet Hawks,home,104.0,73.0,31.0
+2025-11-07,Jacksonville Dolphins,Trinity (FL) Tigers,home,132.0,45.0,87.0
+2025-11-07,Lehigh Mountain Hawks,Valley Forge Patriots,home,91.0,52.0,39.0
+2025-11-07,Lindenwood Lions,Health Sciences & Pharmacy Eutectics,home,116.0,51.0,65.0
+2025-11-07,Old Dominion Monarchs,Randolph College Wildcats,home,93.0,53.0,40.0
+2025-11-07,South Dakota State Jackrabbits,Dakota State Trojans,home,68.0,62.0,6.0
+2025-11-07,Southern Miss Golden Eagles,Tougaloo Bulldogs,home,93.0,57.0,36.0
+2025-11-07,Western Michigan Broncos,Northwood (MI) Timberwolves,home,81.0,85.0,-4.0
+2025-11-08,Ball State Cardinals,Mansfield Mountaineers,home,84.0,54.0,30.0
+2025-11-08,Central Arkansas Bears,Champion Christian Tigers,home,110.0,63.0,47.0
+2025-11-08,Coastal Carolina Chanticleers,Virginia-Lynchburg Dragons,home,121.0,44.0,77.0
+2025-11-08,Fordham Rams,Mount Saint Mary (NY) Knights,home,106.0,37.0,69.0
+2025-11-08,High Point Panthers,Averett Cougars,home,127.0,52.0,75.0
+2025-11-08,Idaho Vandals,Whitman Missionaries,home,94.0,49.0,45.0
+2025-11-08,Maryland Eastern Shore Hawks,Cheyney (PA) Wolves,home,104.0,59.0,45.0
+2025-11-08,Mercyhurst Lakers,Penn State-New Kensington Lions,home,94.0,43.0,51.0
+2025-11-08,Miami (OH) RedHawks,Trinity Christian (IL) Trolls,home,129.0,49.0,80.0
+2025-11-08,North Alabama Lions,Lane College Dragons,home,90.0,84.0,6.0
+2025-11-08,Northern Arizona Lumberjacks,Justice College Lions,home,87.0,55.0,32.0
+2025-11-08,Northern Colorado Bears,Colorado Christian Cougars,home,101.0,65.0,36.0
+2025-11-08,Pennsylvania Quakers,Rowan Profs,home,119.0,72.0,47.0
+2025-11-08,Portland State Vikings,Northwest Indian RedHawks,home,122.0,74.0,48.0
+2025-11-08,Radford Highlanders,West Virginia Wesleyan Bobcats,home,99.0,61.0,38.0
+2025-11-08,Sacramento State Hornets,Jessup University Warriors,home,86.0,76.0,10.0
+2025-11-08,South Alabama Jaguars,Spring Hill Badgers,home,99.0,50.0,49.0
+2025-11-08,South Carolina Upstate Spartans,Southern Virginia Knights,home,105.0,46.0,59.0
+2025-11-08,Stetson Hatters,Fort Lauderdale Eagles,home,106.0,77.0,29.0
+2025-11-08,UTEP Miners,Western New Mexico Mustangs,home,107.0,70.0,37.0
+2025-11-08,West Georgia Wolves,Huntingdon College (AL) Hawks,home,120.0,83.0,37.0
+2025-11-09,Evansville Purple Aces,Oakland City Mighty Oaks,home,76.0,47.0,29.0
+2025-11-09,Louisiana Tech Bulldogs,Lyon Scots,home,93.0,35.0,58.0
+2025-11-09,Middle Tennessee Blue Raiders,Webster Gorloks,home,109.0,56.0,53.0
+2025-11-09,Missouri State Bears,Northwestern Oklahoma State Rangers,home,106.0,57.0,49.0
+2025-11-09,Oral Roberts Golden Eagles,John Brown Golden Eagles,home,84.0,50.0,34.0
+2025-11-09,Purdue Fort Wayne Mastodons,Dominican (IL) Dominican,home,137.0,56.0,81.0
+2025-11-09,South Dakota Coyotes,Ozark Christian Ambassadors,home,121.0,65.0,56.0
+2025-11-10,Furman Paladins,Columbia International Rams,home,89.0,59.0,30.0
+2025-11-10,Green Bay Phoenix,Ripon Red Hawks,home,83.0,63.0,20.0
+2025-11-10,Hofstra Pride,Molloy Lions,home,95.0,61.0,34.0
+2025-11-10,Jacksonville State Gamecocks,Reinhardt Eagles,home,114.0,39.0,75.0
+2025-11-10,Southern Jaguars,Ecclesia Royals,home,115.0,51.0,64.0
+2025-11-10,UT Martin Skyhawks,Kentucky Christian Knights,home,97.0,42.0,55.0
+2025-11-10,Youngstown State Penguins,Penn State-Shenango Nittany Lions,home,115.0,53.0,62.0
+2025-11-11,Abilene Christian Wildcats,Southwestern Adventist Knights,home,104.0,63.0,41.0
+2025-11-11,Bethune-Cookman Wildcats,Coastal Georgia Mariner,home,101.0,60.0,41.0
+2025-11-11,Drake Bulldogs,Simpson College (IA) Storm,home,89.0,51.0,38.0
+2025-11-11,Gardner-Webb Runnin' Bulldogs,North Greenville Crusaders,home,81.0,92.0,-11.0
+2025-11-11,IU Indianapolis Jaguars,IU Columbus Crimson Pride,home,121.0,77.0,44.0
+2025-11-11,Incarnate Word Cardinals,Southwestern Christian Eagles,home,109.0,70.0,39.0
+2025-11-11,McNeese Cowboys,College Of Biblical Studies Ambassadors,home,132.0,50.0,82.0
+2025-11-11,Robert Morris Colonials,Geneva Golden Tornadoes,home,93.0,47.0,46.0
+2025-11-11,Stony Brook Seawolves,Saint Josephs Long Island Golden Eagles,home,107.0,43.0,64.0
+2025-11-11,Tennessee Tech Golden Eagles,Virginia-Lynchburg Dragons,home,118.0,58.0,60.0
+2025-11-11,UAlbany Great Danes,SUNY Delhi Broncos,home,115.0,52.0,63.0
+2025-11-11,UC Irvine Anteaters,Lincoln University (CA) Oaklanders,home,130.0,63.0,67.0
+2025-11-11,UL Monroe Warhawks,Rust Bearcats,home,88.0,55.0,33.0
+2025-11-11,UT Arlington Mavericks,Arlington Baptist Patriots,home,117.0,61.0,56.0
+2025-11-12,Detroit Mercy Titans,Cleary University Cougars,home,92.0,54.0,38.0
+2025-11-12,George Mason Patriots,Catawba Chiefs,home,86.0,62.0,24.0
+2025-11-12,New Mexico State Aggies,New Mexico Highlands Cowboys,home,74.0,58.0,16.0
+2025-11-12,North Dakota Fighting Hawks,Mayville St Comets,home,128.0,58.0,70.0
+2025-11-12,Pepperdine Waves,Lincoln University (CA) Oaklanders,home,113.0,76.0,37.0
+2025-11-12,Southern Utah Thunderbirds,Bethesda University Flames,home,118.0,60.0,58.0
+2025-11-12,Tennessee State Tigers,Oakwood Ambassadors,home,114.0,76.0,38.0
+2025-11-12,Towson Tigers,Wilson College WILSON,home,101.0,62.0,39.0
+2025-11-12,Troy Trojans,Pensacola Christian College PENSACOLA CHRISTIAN,home,121.0,56.0,65.0
+2025-11-12,UIC Flames,St. Francis (IL) Fighting Saints,home,98.0,55.0,43.0
+2025-11-12,VMI Keydets,Virginia-Lynchburg Dragons,home,106.0,54.0,52.0
+2025-11-13,Akron Zips,Penn State-Shenango Nittany Lions,home,109.0,51.0,58.0
+2025-11-13,Bellarmine Knights,Hanover Panthers,home,94.0,55.0,39.0
+2025-11-13,Kennesaw State Owls,Point University Skyhawks,home,111.0,60.0,51.0
+2025-11-13,Marist Red Foxes,Vassar Brewers,home,93.0,61.0,32.0
+2025-11-13,New Hampshire Wildcats,Emmanuel (MA) Lions,home,97.0,69.0,28.0
+2025-11-13,North Carolina Central Eagles,Bluefield State Big Blues,home,77.0,61.0,16.0
+2025-11-13,North Dakota State Bison,St. Scholastica Saints,home,111.0,38.0,73.0
+2025-11-13,South Carolina Upstate Spartans,Bob Jones Bruins,home,114.0,53.0,61.0
+2025-11-13,Southeast Missouri State Redhawks,Webster Gorloks,home,87.0,41.0,46.0
+2025-11-13,UNC Asheville Bulldogs,Bryan (TN) Lions,home,92.0,54.0,38.0
+2025-11-13,Utah Valley Wolverines,Westminster (UT) Griffins,home,91.0,60.0,31.0
+2025-11-14,Campbell Fighting Camels,Mid-Atlantic Christian Mustangs,home,108.0,55.0,53.0
+2025-11-14,East Carolina Pirates,Elizabeth City State Vikings,home,71.0,70.0,1.0
+2025-11-14,Georgia Southern Eagles,Johnson C Smith Golden Bulls,home,98.0,79.0,19.0
+2025-11-14,Georgia State Panthers,Fort Valley State Wildcats,home,90.0,56.0,34.0
+2025-11-14,Navy Midshipmen,Washington College (MD) Shoremen,home,97.0,64.0,33.0
+2025-11-14,North Carolina A&T Aggies,Washington Adventist Shock,home,89.0,83.0,6.0
+2025-11-14,Northern Illinois Huskies,Benedictine University (IL) Eagles,home,117.0,62.0,55.0
+2025-11-14,Northwestern State Demons,Ecclesia Royals,home,95.0,75.0,20.0
+2025-11-14,Princeton Tigers,John Jay College Bloodhounds,home,100.0,59.0,41.0
+2025-11-14,Robert Morris Colonials,Pittsburgh - Greensburg Bobcats,home,81.0,57.0,24.0
+2025-11-14,Tennessee Tech Golden Eagles,Berea Mountaineers,home,86.0,64.0,22.0
+2025-11-14,Western Carolina Catamounts,Voorhees Tigers,home,95.0,44.0,51.0
+2025-11-15,Alabama State Hornets,Virginia-Lynchburg Dragons,home,124.0,68.0,56.0
+2025-11-15,American University Eagles,Central Penn Knights,home,115.0,50.0,65.0
+2025-11-15,Buffalo Bulls,RIT Tigers,home,80.0,64.0,16.0
+2025-11-15,Lipscomb Bisons,Bryan (TN) Lions,home,98.0,53.0,45.0
+2025-11-15,North Florida Ospreys,New College (FL) Mighty Banyans,home,122.0,67.0,55.0
+2025-11-15,Oakland Golden Grizzlies,Defiance Yellow Jackets,home,113.0,47.0,66.0
+2025-11-15,Purdue Fort Wayne Mastodons,Boyce Bulldogs,home,118.0,68.0,50.0
+2025-11-16,Arkansas State Red Wolves,Christian Brothers Buccaneers,home,95.0,67.0,28.0
+2025-11-16,Fordham Rams,Manhattanville Valiants,home,96.0,62.0,34.0
+2025-11-16,Morehead State Eagles,Kentucky Christian Knights,home,121.0,51.0,70.0
+2025-11-16,Northern Kentucky Norse,Cumberland (KY) Patriots,home,101.0,73.0,28.0
+2025-11-16,Rider Broncs,Eastern University (PA) Eagles,home,86.0,54.0,32.0
+2025-11-16,Southern Indiana Screaming Eagles,Loras Duhawks,home,91.0,74.0,17.0
+2025-11-16,Southern Jaguars,Champion Christian Tigers,home,129.0,64.0,65.0
+2025-11-18,Coppin State Eagles,Central Penn Knights,home,103.0,62.0,41.0
+2025-11-18,Eastern Washington Eagles,Eastern Oregon Mountaineers,home,91.0,73.0,18.0
+2025-11-18,Florida Atlantic Owls,Coastal Georgia Mariner,home,92.0,63.0,29.0
+2025-11-18,Liberty Flames,Carolina University Bruins,home,98.0,46.0,52.0
+2025-11-18,San José State Spartans,Bethesda University Flames,home,110.0,56.0,54.0
+2025-11-18,South Dakota State Jackrabbits,Peru State Bobcats,home,94.0,46.0,48.0
+2025-11-18,Tarleton State Texans,Angelo State Rams,home,77.0,54.0,23.0
+2025-11-18,UAB Blazers,Rhodes Lynx,home,112.0,56.0,56.0
+2025-11-18,UAlbany Great Danes,Paul Smith's Bobcats,home,106.0,57.0,49.0
+2025-11-18,UT Rio Grande Valley Vaqueros,Southwestern Adventist Knights,home,110.0,53.0,57.0
+2025-11-18,UTSA Roadrunners,Southwestern Christian Eagles,home,103.0,70.0,33.0
+2025-11-18,Western Illinois Leathernecks,Coe Kohawks,home,74.0,63.0,11.0
+2025-11-19,Binghamton Bearcats,Misericordia Cougars,home,69.0,58.0,11.0
+2025-11-19,Dartmouth Big Green,Maine-Augusta Moose,home,113.0,68.0,45.0
+2025-11-19,Delaware State Hornets,Cheyney (PA) Wolves,home,88.0,70.0,18.0
+2025-11-19,Fairleigh Dickinson Knights,St. Elizabeth Eagles,home,100.0,58.0,42.0
+2025-11-19,Florida International Panthers,Fort Lauderdale Eagles,home,104.0,80.0,24.0
+2025-11-19,Furman Paladins,Ohio Christian Trailblazers,home,79.0,44.0,35.0
+2025-11-19,North Carolina Central Eagles,Toccoa Falls Eagles,home,123.0,67.0,56.0
+2025-11-19,Northern Arizona Lumberjacks,Embry-Riddle (AZ) Eagles,home,108.0,79.0,29.0
+2025-11-19,Oral Roberts Golden Eagles,Haskell Jayhawks,home,84.0,64.0,20.0
+2025-11-19,Southern Miss Golden Eagles,William Carey Crusaders,home,82.0,59.0,23.0
+2025-11-19,Western Kentucky Hilltoppers,Bethel (TN) Wildcats,home,97.0,67.0,30.0
+2025-11-20,East Texas A&M Lions,Dallas Christian Crusaders,home,115.0,44.0,71.0
+2025-11-20,Eastern Illinois Panthers,Tiffin Dragons,home,62.0,50.0,12.0
+2025-11-20,Long Beach State Beach,Nobel Knights,home,87.0,54.0,33.0
+2025-11-20,Montana State Bobcats,Nobel Knights,neutral,92.0,55.0,37.0
+2025-11-20,North Dakota State Bison,Jamestown Jimmies,home,82.0,67.0,15.0
+2025-11-20,Omaha Mavericks,Concordia-Nebraska Clippers,home,96.0,80.0,16.0
+2025-11-20,Portland State Vikings,Evergreen State Geoducks,home,90.0,61.0,29.0
+2025-11-20,Quinnipiac Bobcats,City College NY Beavers,home,112.0,52.0,60.0
+2025-11-20,SE Louisiana Lions,William Carey Crusaders,home,71.0,45.0,26.0
+2025-11-20,The Citadel Bulldogs,North Greenville Crusaders,home,70.0,57.0,13.0
+2025-11-20,UTEP Miners,St. Thomas (TX) Celts,home,84.0,83.0,1.0
+2025-11-21,Delaware State Hornets,Kean Cougars,home,66.0,64.0,2.0
+2025-11-21,Houston Christian Huskies,College Of Biblical Studies Ambassadors,home,85.0,67.0,18.0
+2025-11-21,Idaho State Bengals,Justice College Lions,home,89.0,51.0,38.0
+2025-11-21,Illinois State Redbirds,Rockford Regents,home,93.0,48.0,45.0
+2025-11-21,William & Mary Tribe,Regent Royals,home,104.0,57.0,47.0
+2025-11-21,Wright State Raiders,Ohio Wesleyan Battling Bishops,home,100.0,47.0,53.0
+2025-11-22,Belmont Bruins,Fisk Bulldogs,home,96.0,49.0,47.0
+2025-11-22,Drake Bulldogs,Buena Vista Beavers,home,98.0,52.0,46.0
+2025-11-22,La Salle Explorers,Lancasater Bible College Chargers,home,75.0,46.0,29.0
+2025-11-22,New Haven Chargers,Vermont State - Lyndon Hornets,home,122.0,51.0,71.0
+2025-11-22,Sam Houston Bearkats,Schreiner Mountaineers,home,105.0,54.0,51.0
+2025-11-22,Texas A&M-Corpus Christi Islanders,Howard Payne Yellow Jackets,home,122.0,75.0,47.0
+2025-11-22,Utah Tech Trailblazers,Nobel Knights,home,96.0,48.0,48.0
+2025-11-22,Wofford Terriers,Erskine Flying Fleet,home,81.0,57.0,24.0
+2025-11-23,Charlotte 49ers,Shaw Bears,home,83.0,79.0,4.0
+2025-11-23,Idaho Vandals,Eastern Oregon Mountaineers,home,97.0,68.0,29.0
+2025-11-23,Saint Mary's Gaels,UC Merced Bobcats,home,96.0,42.0,54.0
+2025-11-23,Southern Utah Thunderbirds,Nobel Knights,home,103.0,68.0,35.0
+2025-11-24,UMBC Retrievers,Notre Dame (MD) Gators,home,102.0,52.0,50.0
+2025-11-25,American University Eagles,Marywood Pacers,home,113.0,53.0,60.0
+2025-11-25,Chaminade Silverswords,Washington State Cougars,home,85.0,90.0,-5.0
+2025-11-25,Hawai'i Rainbow Warriors,Hawai'i Pacific Sea Warriors,home,88.0,76.0,12.0
+2025-11-25,Loyola Maryland Greyhounds,Washington College (MD) Shoremen,home,101.0,51.0,50.0
+2025-11-25,North Alabama Lions,Tennessee Southern Firehawks,home,92.0,60.0,32.0
+2025-11-25,Texas State Bobcats,Texas Lutheran Bulldogs,home,93.0,41.0,52.0
+2025-11-25,UC Santa Barbara Gauchos,Nobel Knights,home,84.0,49.0,35.0
+2025-11-26,Bryant Bulldogs,Mercy Mavericks,home,87.0,61.0,26.0
+2025-11-26,Central Michigan Chippewas,Adrian Bulldogs,home,112.0,67.0,45.0
+2025-11-26,Chaminade Silverswords,Texas Longhorns,home,78.0,119.0,-41.0
+2025-11-26,Charleston Southern Buccaneers,Piedmont Lions,home,93.0,81.0,12.0
+2025-11-26,Cleveland State Vikings,Waynesburg Yellow Jackets,home,109.0,56.0,53.0
+2025-11-26,Cornell Big Red,Misericordia Cougars,home,114.0,70.0,44.0
+2025-11-26,Delaware State Hornets,Virginia St Trojans,neutral,58.0,62.0,-4.0
+2025-11-26,Duquesne Dukes,Central State (OH) Marauders,home,101.0,80.0,21.0
+2025-11-26,Holy Cross Crusaders,Worcester State Lancers,home,77.0,53.0,24.0
+2025-11-26,Howard Bison,St. Mary's (MD) Seahawks,home,115.0,61.0,54.0
+2025-11-26,Incarnate Word Cardinals,Texas Lutheran Bulldogs,home,117.0,55.0,62.0
+2025-11-26,Milwaukee Panthers,Dominican (IL) Dominican,home,125.0,70.0,55.0
+2025-11-26,New Haven Chargers,Salve Regina Seahawks,home,78.0,47.0,31.0
+2025-11-26,Norfolk State Spartans,Virginia-Lynchburg Dragons,home,136.0,79.0,57.0
+2025-11-26,Presbyterian Blue Hose,Columbia International Rams,home,93.0,50.0,43.0
+2025-11-26,Sacramento State Hornets,San Francisco State Gators,home,94.0,46.0,48.0
+2025-11-26,Saint Joseph's Hawks,Rutgers-Camden Scarlet Raptors,home,100.0,61.0,39.0
+2025-11-26,UT Martin Skyhawks,Brescia Bearcats,home,75.0,50.0,25.0
+2025-11-27,Chaminade Silverswords,Boise State Broncos,neutral,76.0,102.0,-26.0
+2025-11-27,Texas Southern Tigers,College Of Biblical Studies Ambassadors,home,102.0,44.0,58.0
+2025-11-28,Abilene Christian Wildcats,Jarvis Christian Bulldogs,home,87.0,55.0,32.0
+2025-11-28,Chattanooga Mocs,Tennessee Wesleyan Bulldogs,home,109.0,59.0,50.0
+2025-11-28,Fordham Rams,Franklin Pierce Ravens,neutral,74.0,72.0,2.0
+2025-11-28,Purdue Fort Wayne Mastodons,Holy Cross College (IN) Saints,home,92.0,59.0,33.0
+2025-11-28,SIU Edwardsville Cougars,Missouri Baptist Spartans,home,92.0,55.0,37.0
+2025-11-28,Tarleton State Texans,Midwestern State Mustangs,home,67.0,57.0,10.0
+2025-11-29,Colgate Raiders,SUNY-Oneonta Red Dragons,neutral,85.0,50.0,35.0
+2025-11-29,Columbia Lions,Sarah Lawrence Gryphons,home,92.0,44.0,48.0
+2025-11-29,Green Bay Phoenix,Haskell Jayhawks,home,95.0,55.0,40.0
+2025-11-29,Maryland Eastern Shore Hawks,Gwynedd-Mercy Griffins,home,84.0,60.0,24.0
+2025-11-29,North Carolina Central Eagles,Carolina University Bruins,home,109.0,61.0,48.0
+2025-11-29,North Florida Ospreys,Trinity College of Jacksonville Eagles,home,111.0,67.0,44.0
+2025-11-29,Radford Highlanders,Notre Dame (MD) Gators,home,102.0,75.0,27.0
+2025-11-29,Saint Francis Red Flash,Franciscan University Barons,home,85.0,60.0,25.0
+2025-11-29,Southern Indiana Screaming Eagles,Kentucky State Thorobreds,home,93.0,56.0,37.0
+2025-11-29,Tennessee State Tigers,Tennessee Wesleyan Bulldogs,neutral,98.0,77.0,21.0
+2025-11-29,UMass Lowell River Hawks,Emerson Lions,home,90.0,67.0,23.0
+2025-11-30,Cal Poly Mustangs,Redlands Bulldogs,home,87.0,81.0,6.0
+2025-11-30,Central Connecticut Blue Devils,Johnson & Wales (RI) Griffins,home,122.0,57.0,65.0
+2025-11-30,Kent State Golden Flashes,Penn State-Shenango Nittany Lions,home,123.0,59.0,64.0
+2025-11-30,Lamar Cardinals,Our Lady Of The Lake Saints,home,90.0,46.0,44.0
+2025-11-30,Missouri State Bears,Northeastern State RiverHawks,home,92.0,71.0,21.0
+2025-11-30,New Haven Chargers,Mitchell College Mariners,home,92.0,69.0,23.0
+2025-11-30,Northern Colorado Bears,Regis (CO) REGIS UNIVERSITY,home,104.0,63.0,41.0
+2025-11-30,Omaha Mavericks,Mid-America Christian Evangels,home,84.0,62.0,22.0
+2025-11-30,St. Thomas-Minnesota Tommies,Lawrence University Vikings,home,87.0,52.0,35.0
+2025-11-30,UAlbany Great Danes,SUNY-Oneonta Red Dragons,neutral,90.0,62.0,28.0
+2025-11-30,Western Illinois Leathernecks,St. Ambrose Fighting Bees,home,89.0,73.0,16.0
+2025-12-01,Chicago State Cougars,St. Xavier  (IL) Cougars,home,85.0,62.0,23.0
+2025-12-01,Southern Jaguars,Louisiana Christian Wildcats,home,101.0,48.0,53.0
+2025-12-01,Toledo Rockets,Central State (OH) Marauders,home,102.0,58.0,44.0
+2025-12-02,Hampton Pirates,Apprentice School Builders,home,94.0,58.0,36.0
+2025-12-02,New Mexico Lobos,New Mexico Highlands Cowboys,home,97.0,47.0,50.0
+2025-12-02,Northern Iowa Panthers,Coe Kohawks,home,99.0,34.0,65.0
+2025-12-02,Southern Utah Thunderbirds,West Coast Baptist Eagles,home,124.0,59.0,65.0
+2025-12-02,Western Carolina Catamounts,Virginia-Lynchburg Dragons,home,124.0,62.0,62.0
+2025-12-03,App State Mountaineers,Virginia-Lynchburg Dragons,home,133.0,45.0,88.0
+2025-12-03,Boston University Terriers,Vermont State - Johnson Badgers,home,104.0,57.0,47.0
+2025-12-03,Indiana State Sycamores,Eureka Red Devils,home,99.0,57.0,42.0
+2025-12-03,Miami (OH) RedHawks,Indiana University East IU EAST,home,109.0,65.0,44.0
+2025-12-03,Southeast Missouri State Redhawks,Saint Mary of the Woods College Pomeroys,home,88.0,57.0,31.0
+2025-12-03,Tulsa Golden Hurricane,Manhattan Christian Thunder,home,111.0,60.0,51.0
+2025-12-03,Wichita State Shockers,Mount Marty College Lancers,home,95.0,69.0,26.0
+2025-12-03,Yale Bulldogs,SUNY-Maritime Privateers,home,117.0,53.0,64.0
+2025-12-04,Bellarmine Knights,Midway University Eagles,home,99.0,60.0,39.0
+2025-12-04,Fairleigh Dickinson Knights,Manor College Blue Jays,home,86.0,38.0,48.0
+2025-12-04,Longwood Lancers,Pfeiffer Falcons,home,101.0,55.0,46.0
+2025-12-04,Saint Francis Red Flash,Penn State-Shenango Nittany Lions,home,100.0,41.0,59.0
+2025-12-04,Seattle U Redhawks,Puget Sound Loggers,home,97.0,43.0,54.0
+2025-12-04,St. Bonaventure Bonnies,Bloomsburg Huskies,home,83.0,43.0,40.0
+2025-12-04,Tarleton State Texans,Howard Payne Yellow Jackets,home,119.0,54.0,65.0
+2025-12-04,Yale Bulldogs,Brandeis Judges,home,79.0,61.0,18.0
+2025-12-05,Charleston Southern Buccaneers,Warren Wilson Owls,home,124.0,63.0,61.0
+2025-12-06,Brown Bears,Elms College Blazers,home,115.0,34.0,81.0
+2025-12-06,Colgate Raiders,St. John Fisher Cardinals,home,94.0,50.0,44.0
+2025-12-06,Eastern Kentucky Colonels,Indiana University East IU EAST,home,122.0,67.0,55.0
+2025-12-06,Eastern Michigan Eagles,Cleary University Cougars,home,86.0,48.0,38.0
+2025-12-06,Florida A&M Rattlers,Florida Memorial FLORIDA MEMORIAL,neutral,60.0,58.0,2.0
+2025-12-06,Howard Bison,Bowie State Bulldogs,home,85.0,69.0,16.0
+2025-12-06,Kent State Golden Flashes,Roberts Wesleyan Redhawks,home,111.0,68.0,43.0
+2025-12-06,Portland Pilots,Lewis & Clark Pioneers,home,104.0,87.0,17.0
+2025-12-06,Prairie View A&M Panthers,Champion Christian Tigers,home,124.0,62.0,62.0
+2025-12-06,Troy Trojans,LaGrange Panthers,home,101.0,47.0,54.0
+2025-12-06,VMI Keydets,Christendom Crusaders,home,89.0,36.0,53.0
+2025-12-06,Valparaiso Beacons,Calumet Crimson Wave,home,98.0,58.0,40.0
+2025-12-06,Wagner Seahawks,Bryant Str-Alb Bobcats,home,92.0,36.0,56.0
+2025-12-06,Western Illinois Leathernecks,Hannibal-Lagrange Trojans,home,78.0,47.0,31.0
+2025-12-07,Army Black Knights,Gallaudet Bison,home,111.0,53.0,58.0
+2025-12-07,Bowling Green Falcons,Aquinas Saints,home,131.0,50.0,81.0
+2025-12-07,Campbell Fighting Camels,Virginia-Lynchburg Dragons,home,149.0,62.0,87.0
+2025-12-07,East Tennessee State Buccaneers,Tusculum Pioneers,home,78.0,62.0,16.0
+2025-12-07,Jacksonville State Gamecocks,Auburn-Montgomery Senators,home,66.0,39.0,27.0
+2025-12-07,Louisiana Tech Bulldogs,Ecclesia Royals,home,89.0,37.0,52.0
+2025-12-07,Mercer Bears,Oglethorpe Stormy Petrels,home,100.0,50.0,50.0
+2025-12-07,Mercyhurst Lakers,Bethany (WV) Bison,home,80.0,51.0,29.0
+2025-12-07,Tarleton State Texans,Cameron Aggies,home,93.0,63.0,30.0
+2025-12-08,Kennesaw State Owls,Southern Wesleyan Warriors,home,121.0,66.0,55.0
+2025-12-09,Furman Paladins,Bob Jones Bruins,home,105.0,57.0,48.0
+2025-12-09,Holy Cross Crusaders,Regis Pride,home,69.0,47.0,22.0
+2025-12-09,UL Monroe Warhawks,Arkansas Baptist Buffaloes,home,79.0,69.0,10.0
+2025-12-09,Winthrop Eagles,Toccoa Falls Eagles,home,111.0,62.0,49.0
+2025-12-10,California Golden Bears,Dominican (CA) Penguins,home,93.0,71.0,22.0
+2025-12-10,Chattanooga Mocs,Oakwood Ambassadors,home,103.0,46.0,57.0
+2025-12-10,Denver Pioneers,Colorado Christian Cougars,home,95.0,59.0,36.0
+2025-12-10,Lindenwood Lions,Culver-Stockton Wildcats,home,110.0,44.0,66.0
+2025-12-10,Northern Kentucky Norse,Brescia Bearcats,home,92.0,53.0,39.0
+2025-12-10,Omaha Mavericks,Doane Tigers,home,79.0,70.0,9.0
+2025-12-10,Temple Owls,Georgian Court Lions,home,103.0,57.0,46.0
+2025-12-10,The Citadel Bulldogs,Southern Wesleyan Warriors,home,98.0,73.0,25.0
+2025-12-10,UMass Lowell River Hawks,Fisher College Eagles,home,122.0,73.0,49.0
+2025-12-11,Cal State Fullerton Titans,Bethesda University Flames,home,116.0,66.0,50.0
+2025-12-11,Florida Atlantic Owls,Saint Leo Monarchs,home,112.0,55.0,57.0
+2025-12-11,Hawai'i Rainbow Warriors,Hawai'i Hilo Vulcans,home,98.0,46.0,52.0
+2025-12-11,Hofstra Pride,Old Westbury Panthers,home,92.0,23.0,69.0
+2025-12-11,Montana Grizzlies,Salish Kootenai Bison,home,102.0,46.0,56.0
+2025-12-11,Nicholls Colonels,College Of Biblical Studies Ambassadors,home,117.0,49.0,68.0
+2025-12-11,North Dakota Fighting Hawks,Crown College Polars,home,89.0,43.0,46.0
+2025-12-11,Tulane Green Wave,Tougaloo Bulldogs,home,84.0,72.0,12.0
+2025-12-12,Denver Pioneers,Alaska Anchorage Seawolves,home,97.0,61.0,36.0
+2025-12-12,Georgia Southern Eagles,Coastal Georgia Mariner,home,100.0,58.0,42.0
+2025-12-12,Jacksonville Dolphins,Trinity College of Jacksonville Eagles,home,122.0,49.0,73.0
+2025-12-12,St. Thomas-Minnesota Tommies,Saint John's (MN) Johnnies,home,80.0,56.0,24.0
+2025-12-12,Wagner Seahawks,Bloomfield Deacons,home,95.0,93.0,2.0
+2025-12-13,Alabama A&M Bulldogs,Arkansas Baptist Buffaloes,home,67.0,59.0,8.0
+2025-12-13,Gardner-Webb Runnin' Bulldogs,Brevard Tornados,home,77.0,63.0,14.0
+2025-12-13,Portland State Vikings,George Fox Bruins,home,94.0,50.0,44.0
+2025-12-13,South Dakota State Jackrabbits,Dakota Wesleyan Tigers,home,94.0,62.0,32.0
+2025-12-13,Stonehill Skyhawks,Vermont State - Johnson Badgers,home,101.0,60.0,41.0
+2025-12-13,Tennessee Tech Golden Eagles,Bethel (TN) Wildcats,home,101.0,69.0,32.0
+2025-12-13,Texas A&M-Corpus Christi Islanders,Dallas Christian Crusaders,home,108.0,55.0,53.0
+2025-12-13,UNC Greensboro Spartans,William Peace Pacers,home,90.0,62.0,28.0
+2025-12-13,Winthrop Eagles,Bob Jones Bruins,home,101.0,55.0,46.0
+2025-12-14,Bradley Braves,North Central College Cardinals,home,86.0,53.0,33.0
+2025-12-14,Cleveland State Vikings,Oakland City Mighty Oaks,home,96.0,52.0,44.0
+2025-12-14,Colorado State Rams,Northern New Mexico Eagles,home,104.0,54.0,50.0
+2025-12-14,Idaho Vandals,Evergreen State Geoducks,home,109.0,55.0,54.0
+2025-12-14,Kansas City Roos,Spurgeon College Knights,home,102.0,75.0,27.0
+2025-12-14,Oral Roberts Golden Eagles,Ecclesia Royals,home,97.0,52.0,45.0
+2025-12-14,Pacific Tigers,Simpson University (CA) Red Hawks,home,104.0,50.0,54.0
+2025-12-14,SIU Edwardsville Cougars,Eureka Red Devils,home,97.0,54.0,43.0
+2025-12-14,Seattle U Redhawks,Warner Pacific Knights,home,115.0,60.0,55.0
+2025-12-14,Southeast Missouri State Redhawks,St. Xavier  (IL) Cougars,home,88.0,65.0,23.0
+2025-12-14,UT Martin Skyhawks,Champion Christian Tigers,home,96.0,52.0,44.0
+2025-12-14,Utah Tech Trailblazers,Justice College Lions,home,89.0,48.0,41.0
+2025-12-14,Youngstown State Penguins,Thiel Tomcats,home,103.0,52.0,51.0
+2025-12-15,Samford Bulldogs,Bryan (TN) Lions,home,106.0,51.0,55.0
+2025-12-16,Arkansas-Pine Bluff Golden Lions,Ecclesia Royals,home,114.0,64.0,50.0
+2025-12-16,Florida A&M Rattlers,Albany St (GA) Golden Rams,home,93.0,77.0,16.0
+2025-12-16,IU Indianapolis Jaguars,Miami (OH)-Middletown ThunderHawks,home,126.0,73.0,53.0
+2025-12-16,Liberty Flames,Midway University Eagles,home,95.0,57.0,38.0
+2025-12-16,North Dakota State Bison,Minnesota Crookston Golden Eagles,home,101.0,67.0,34.0
+2025-12-16,Stetson Hatters,Rhodes Lynx,home,95.0,76.0,19.0
+2025-12-16,UNC Asheville Bulldogs,Kentucky Christian Knights,home,83.0,73.0,10.0
+2025-12-16,Western Kentucky Hilltoppers,Campbellsville Tigers,home,102.0,59.0,43.0
+2025-12-17,Arkansas-Pine Bluff Golden Lions,Champion Christian Tigers,home,138.0,73.0,65.0
+2025-12-17,Central Arkansas Bears,Kansas Christian Falcons,home,102.0,47.0,55.0
+2025-12-17,Denver Pioneers,Colorado-Colorado Springs Mountain Lions,home,129.0,93.0,36.0
+2025-12-17,High Point Panthers,Mary Baldwin Fighting Squirrels,home,129.0,47.0,82.0
+2025-12-17,Northern Illinois Huskies,East-West University Phantoms,home,112.0,64.0,48.0
+2025-12-17,Ohio Bobcats,Ohio Wesleyan Battling Bishops,home,89.0,56.0,33.0
+2025-12-17,Omaha Mavericks,York College Nebraska Panthers,home,105.0,58.0,47.0
+2025-12-17,Rice Owls,Southwestern Christian Eagles,home,94.0,47.0,47.0
+2025-12-17,UC Riverside Highlanders,Stanton Elks,home,95.0,70.0,25.0
+2025-12-18,Central Michigan Chippewas,Olivet Comets,home,85.0,65.0,20.0
+2025-12-18,Gardner-Webb Runnin' Bulldogs,Toccoa Falls Eagles,home,105.0,65.0,40.0
+2025-12-18,Montana Grizzlies,Montana Tech Orediggers,home,75.0,82.0,-7.0
+2025-12-18,North Carolina Central Eagles,Mid-Atlantic Christian Mustangs,home,96.0,62.0,34.0
+2025-12-18,South Carolina Upstate Spartans,Southern Wesleyan Warriors,home,98.0,63.0,35.0
+2025-12-18,South Dakota Coyotes,Dakota State Trojans,home,80.0,71.0,9.0
+2025-12-18,UNC Asheville Bulldogs,Morris College Hornets,home,89.0,56.0,33.0
+2025-12-18,West Georgia Wolves,Brewton-Parker Wildcats,home,70.0,49.0,21.0
+2025-12-19,Cal State Bakersfield Roadrunners,Nobel Knights,home,97.0,66.0,31.0
+2025-12-19,Cal State Northridge Matadors,La Sierra Golden Eagles,home,88.0,53.0,35.0
+2025-12-19,Fairleigh Dickinson Knights,Lehman College Bridges,home,76.0,42.0,34.0
+2025-12-19,Idaho State Bengals,Montana-Western Bulldogs,home,80.0,64.0,16.0
+2025-12-19,Lehigh Mountain Hawks,Penn State Hazleton Nittany Lions,home,83.0,74.0,9.0
+2025-12-19,Samford Bulldogs,Reinhardt Eagles,home,85.0,49.0,36.0
+2025-12-19,South Carolina State Bulldogs,Brewton-Parker Wildcats,home,68.0,54.0,14.0
+2025-12-19,Towson Tigers,Notre Dame (MD) Gators,home,107.0,60.0,47.0
+2025-12-20,Detroit Mercy Titans,Siena Heights Saints,home,91.0,60.0,31.0
+2025-12-20,Lindenwood Lions,Harris-Stowe State Hornets,home,109.0,52.0,57.0
+2025-12-20,Lipscomb Bisons,Blue Mountain Toppers,home,123.0,60.0,63.0
+2025-12-20,Niagara Purple Eagles,Houghton Highlanders,home,81.0,58.0,23.0
+2025-12-20,North Carolina A&T Aggies,Mid-Atlantic Christian Mustangs,home,95.0,55.0,40.0
+2025-12-20,Northwestern State Demons,Southern-New Orleans Knights,home,108.0,55.0,53.0
+2025-12-20,Prairie View A&M Panthers,Paul Quinn Tigers,home,100.0,64.0,36.0
+2025-12-20,Toledo Rockets,Lourdes University Gray Wolves,home,100.0,67.0,33.0
+2025-12-20,UT Rio Grande Valley Vaqueros,College Of Biblical Studies Ambassadors,home,109.0,51.0,58.0
+2025-12-20,Utah Valley Wolverines,Bethesda University Flames,home,109.0,48.0,61.0
+2025-12-21,Delaware State Hornets,Holy Family University Tigers,home,73.0,61.0,12.0
+2025-12-21,Middle Tennessee Blue Raiders,Cumberland (TN) Phoenix,home,74.0,58.0,16.0
+2025-12-21,Mount St. Mary's Mountaineers,Penn State (Brandywine) Lions,home,73.0,42.0,31.0
+2025-12-21,Navy Midshipmen,Rosemont Ravens,home,70.0,23.0,47.0
+2025-12-21,Stephen F. Austin Lumberjacks,Dallas Crusaders,home,103.0,55.0,48.0
+2025-12-21,Texas A&M-Corpus Christi Islanders,Southwestern Adventist Knights,home,93.0,36.0,57.0
+2025-12-21,UNC Greensboro Spartans,Virginia-Lynchburg Dragons,home,131.0,53.0,78.0
+2025-12-21,USC Trojans,UC Santa Cruz Banana Slugs,home,102.0,63.0,39.0
+2025-12-21,Winthrop Eagles,Clinton College Golden Bears,home,107.0,41.0,66.0
+2025-12-22,Bowling Green Falcons,Siena Heights Saints,home,125.0,66.0,59.0
+2025-12-22,Buffalo Bulls,Penn State-Behrend Lions,home,92.0,63.0,29.0
+2025-12-22,Eastern Illinois Panthers,East-West University Phantoms,home,110.0,56.0,54.0
+2025-12-22,Elon Phoenix,Greensboro College Pride,home,97.0,63.0,34.0
+2025-12-22,Florida International Panthers,Trinity College of Jacksonville Eagles,home,121.0,70.0,51.0
+2025-12-22,George Washington Revolutionaries,St. Mary's (MD) Seahawks,home,97.0,40.0,57.0
+2025-12-22,Louisiana Tech Bulldogs,Dallas Christian Crusaders,home,90.0,37.0,53.0
+2025-12-22,Massachusetts Minutemen,Massachusetts-Boston Beacons,home,91.0,40.0,51.0
+2025-12-22,Miami (OH) RedHawks,Milligan Buffaloes,home,135.0,81.0,54.0
+2025-12-22,Montana State Bobcats,Northwest University Eagles,home,93.0,54.0,39.0
+2025-12-22,North Texas Mean Green,Science & Arts (OK) Drovers,home,109.0,56.0,53.0
+2025-12-22,Ohio Bobcats,Miami (OH)-Hamilton Harriers,home,102.0,59.0,43.0
+2025-12-22,Saint Peter's Peacocks,Centenary (NJ) Cyclones,home,116.0,50.0,66.0
+2025-12-22,San Diego State Aztecs,Whittier Poets,home,121.0,59.0,62.0
+2025-12-22,Wagner Seahawks,Manor College Blue Jays,home,74.0,57.0,17.0
+2025-12-22,Weber State Wildcats,Lincoln University (CA) Oaklanders,home,103.0,64.0,39.0
+2025-12-22,Western Michigan Broncos,Defiance Yellow Jackets,home,94.0,57.0,37.0
+2025-12-23,Fairfield Stags,City College NY Beavers,home,121.0,58.0,63.0
+2025-12-23,Little Rock Trojans,Williams Baptist Eagles,home,98.0,84.0,14.0
+2025-12-24,Marshall Thundering Herd,WVU Tech Golden Bears,home,102.0,52.0,50.0
+2025-12-27,Duquesne Dukes,Cleary University Cougars,home,99.0,49.0,50.0
+2025-12-27,UNC Wilmington Seahawks,Columbia College (SC) Fighting Koalas,home,100.0,56.0,44.0
+2025-12-28,Austin Peay Governors,Fisk Bulldogs,home,110.0,59.0,51.0
+2025-12-28,Bryant Bulldogs,Worcester State Lancers,home,95.0,59.0,36.0
+2025-12-28,Florida Gulf Coast Eagles,Fort Lauderdale Eagles,home,84.0,43.0,41.0
+2025-12-28,Georgia State Panthers,Columbia College (SC) Fighting Koalas,home,110.0,72.0,38.0
+2025-12-28,High Point Panthers,Pfeiffer Falcons,home,123.0,64.0,59.0
+2025-12-28,Kansas City Roos,McPherson Mcpherson,home,91.0,78.0,13.0
+2025-12-28,Longwood Lancers,Averett Cougars,home,92.0,49.0,43.0
+2025-12-28,Mercer Bears,Baptist (Fl) Eagles,home,122.0,49.0,73.0
+2025-12-28,Morehead State Eagles,Alice Lloyd College Eagles,home,115.0,65.0,50.0
+2025-12-28,New Mexico State Aggies,University of The Southwest Mustangs,home,104.0,33.0,71.0
+2025-12-28,North Dakota Fighting Hawks,Dakota State Trojans,home,88.0,56.0,32.0
+2025-12-28,Presbyterian Blue Hose,Truett-McConnell Bears,home,91.0,64.0,27.0
+2025-12-28,Radford Highlanders,Shenandoah Hornets,home,87.0,44.0,43.0
+2025-12-28,Saint Joseph's Hawks,Arcadia ARCADIA,home,87.0,65.0,22.0
+2025-12-28,Saint Louis Billikens,Principia College PRINCIPIA,home,114.0,33.0,81.0
+2025-12-28,Sam Houston Bearkats,College Of Biblical Studies Ambassadors,home,117.0,57.0,60.0
+2025-12-28,South Dakota Coyotes,Mount Marty College Lancers,home,85.0,61.0,24.0
+2025-12-28,St. Thomas-Minnesota Tommies,North Central (MN) Rams,home,105.0,59.0,46.0
+2025-12-28,UC Davis Aggies,Pacific Union PACIFIC UNION,home,108.0,52.0,56.0
+2025-12-28,Wofford Terriers,Union (KY) Bulldogs,home,88.0,54.0,34.0
+2025-12-29,Baylor Bears,Arlington Baptist Patriots,home,124.0,61.0,63.0
+2025-12-29,Binghamton Bearcats,Elmira Soaring Eagles,home,100.0,60.0,40.0
+2025-12-29,NJIT Highlanders,SUNY-Canton Roos,home,95.0,60.0,35.0
+2025-12-29,South Florida Bulls,Georgia College Bobcats,home,111.0,50.0,61.0
+2025-12-29,UC San Diego Tritons,Stanton Elks,home,85.0,62.0,23.0
+2025-12-29,UIC Flames,Illinois Tech Scarlet Hawks,home,102.0,64.0,38.0
+2025-12-30,Akron Zips,Concord Mountain Lions,home,115.0,64.0,51.0
+2025-12-30,Alabama A&M Bulldogs,Fisk Bulldogs,home,90.0,58.0,32.0
+2025-12-30,Ball State Cardinals,Earlham College Quakers,home,93.0,30.0,63.0
+2025-12-30,Grambling Tigers,Centenary (LA) Gentlemen,home,90.0,58.0,32.0
+2025-12-30,Maine Black Bears,Maine-Fort Kent Bengals,home,104.0,66.0,38.0
+2025-12-30,Morgan State Bears,Penn State (Brandywine) Lions,home,92.0,55.0,37.0
+2025-12-30,Northern Arizona Lumberjacks,Benedictine (AZ) Redhawks,home,112.0,60.0,52.0
+2025-12-30,South Alabama Jaguars,Mobile Rams,home,85.0,52.0,33.0
+2025-12-30,UNLV Rebels,La Sierra Golden Eagles,home,89.0,47.0,42.0
+2025-12-31,Arkansas State Red Wolves,Arkansas Tech Wonder Boys,home,107.0,63.0,44.0
+2025-12-31,Brown Bears,Johnson & Wales (RI) Griffins,home,105.0,47.0,58.0
+2025-12-31,Columbia Lions,Penn St Abington Nittany Lions,home,106.0,51.0,55.0
+2025-12-31,Long Beach State Beach,Lincoln University (CA) Oaklanders,home,113.0,66.0,47.0
+2025-12-31,Texas Southern Tigers,Huston-Tillotson Rams,home,80.0,56.0,24.0
+2026-01-01,Dartmouth Big Green,Elms College Blazers,home,107.0,43.0,64.0
+2026-01-02,Cornell Big Red,Alfred State Pioneers,home,133.0,65.0,68.0
+2026-01-09,Youngstown State Penguins,Bryant & Stratton (Ohio) Bobcats,home,99.0,61.0,38.0
+2026-01-17,San Diego Toreros,Bethesda University Flames,home,113.0,67.0,46.0
+2026-01-18,Eastern Illinois Panthers,Blackburn Beavers,home,105.0,49.0,56.0
+2026-01-19,Howard Bison,Morehouse Maroon Tigers,home,78.0,69.0,9.0
+2026-01-20,Morgan State Bears,Virginia-Lynchburg Dragons,home,128.0,53.0,75.0
+2026-01-20,Norfolk State Spartans,Elizabeth City State Vikings,home,86.0,61.0,25.0
+2026-01-21,South Carolina State Bulldogs,Mid-Atlantic Christian Mustangs,home,56.0,50.0,6.0
+2026-02-10,Davidson Wildcats,Mid-Atlantic Christian Mustangs,home,114.0,53.0,61.0
