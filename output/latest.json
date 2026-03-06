@@ -122,6 +122,21 @@
       "implied": 0.512
     },
     {
+      "game": "Stetson Hatters @ Austin Peay Governors",
+      "time": "2026-03-06T22:00",
+      "book": "espnbet",
+      "model_spread": 10.1,
+      "pred": "72-62",
+      "type": "TOTAL",
+      "side": "UNDER 150.5",
+      "line": 150.5,
+      "odds": -105,
+      "edge_pts": 15.5,
+      "ev_pct": 66.0,
+      "model_prob": 0.85,
+      "implied": 0.512
+    },
+    {
       "game": "Northern Illinois Huskies @ Akron Zips",
       "time": "2026-03-06T23:00",
       "book": "fanduel",
@@ -362,6 +377,21 @@
       "implied": 0.519
     },
     {
+      "game": "Drake Bulldogs @ Belmont Bruins",
+      "time": "2026-03-06T18:00",
+      "book": "lowvig",
+      "model_spread": 14.2,
+      "pred": "73-59",
+      "type": "TOTAL",
+      "side": "UNDER 152.0",
+      "line": 152.0,
+      "odds": -108,
+      "edge_pts": 19.0,
+      "ev_pct": 63.7,
+      "model_prob": 0.85,
+      "implied": 0.519
+    },
+    {
       "game": "Charleston Southern Buccaneers @ Winthrop Eagles",
       "time": "2026-03-06T19:30",
       "book": "lowvig",
@@ -387,21 +417,6 @@
       "line": 150.0,
       "odds": -108,
       "edge_pts": 14.0,
-      "ev_pct": 63.7,
-      "model_prob": 0.85,
-      "implied": 0.519
-    },
-    {
-      "game": "Stetson Hatters @ Austin Peay Governors",
-      "time": "2026-03-06T22:00",
-      "book": "lowvig",
-      "model_spread": 10.1,
-      "pred": "72-62",
-      "type": "TOTAL",
-      "side": "UNDER 150.5",
-      "line": 150.5,
-      "odds": -108,
-      "edge_pts": 15.5,
       "ev_pct": 63.7,
       "model_prob": 0.85,
       "implied": 0.519
@@ -529,22 +544,7 @@
     {
       "game": "Drake Bulldogs @ Belmont Bruins",
       "time": "2026-03-06T18:00",
-      "book": "fanduel",
-      "model_spread": 14.2,
-      "pred": "73-59",
-      "type": "TOTAL",
-      "side": "UNDER 153.5",
-      "line": 153.5,
-      "odds": -110,
-      "edge_pts": 20.5,
-      "ev_pct": 62.3,
-      "model_prob": 0.85,
-      "implied": 0.524
-    },
-    {
-      "game": "Drake Bulldogs @ Belmont Bruins",
-      "time": "2026-03-06T18:00",
-      "book": "fanatics",
+      "book": "bovada",
       "model_spread": 14.2,
       "pred": "73-59",
       "type": "TOTAL",
@@ -722,6 +722,21 @@
       "implied": 0.524
     },
     {
+      "game": "West Georgia Wolves @ Queens University Royals",
+      "time": "2026-03-07T00:30",
+      "book": "williamhill_us",
+      "model_spread": 13.6,
+      "pred": "77-64",
+      "type": "TOTAL",
+      "side": "UNDER 163.0",
+      "line": 163.0,
+      "odds": -110,
+      "edge_pts": 21.0,
+      "ev_pct": 62.3,
+      "model_prob": 0.85,
+      "implied": 0.524
+    },
+    {
       "game": "Georgia Southern Eagles @ South Alabama Jaguars",
       "time": "2026-03-07T01:30",
       "book": "fanatics",
@@ -780,6 +795,21 @@
       "ev_pct": 60.9,
       "model_prob": 0.85,
       "implied": 0.528
+    },
+    {
+      "game": "Drake Bulldogs @ Belmont Bruins",
+      "time": "2026-03-06T18:00",
+      "book": "betparx",
+      "model_spread": 14.2,
+      "pred": "73-59",
+      "type": "TOTAL",
+      "side": "UNDER 153.5",
+      "line": 153.5,
+      "odds": -114,
+      "edge_pts": 20.5,
+      "ev_pct": 59.6,
+      "model_prob": 0.85,
+      "implied": 0.533
     },
     {
       "game": "Charleston Southern Buccaneers @ Winthrop Eagles",
@@ -962,21 +992,6 @@
       "implied": 0.512
     },
     {
-      "game": "Fairfield Stags @ Saint Peter's Peacocks",
-      "time": "2026-03-07T01:30",
-      "book": "fliff",
-      "model_spread": 9.1,
-      "pred": "66-57",
-      "type": "TOTAL",
-      "side": "UNDER 136.5",
-      "line": 136.5,
-      "odds": -115,
-      "edge_pts": 12.5,
-      "ev_pct": 51.9,
-      "model_prob": 0.812,
-      "implied": 0.535
-    },
-    {
       "game": "Presbyterian Blue Hose @ Radford Highlanders",
       "time": "2026-03-07T01:30",
       "book": "lowvig",
@@ -1000,21 +1015,6 @@
       "type": "TOTAL",
       "side": "UNDER 139.5",
       "line": 139.5,
-      "odds": -110,
-      "edge_pts": 11.5,
-      "ev_pct": 50.3,
-      "model_prob": 0.788,
-      "implied": 0.524
-    },
-    {
-      "game": "Fairfield Stags @ Saint Peter's Peacocks",
-      "time": "2026-03-07T01:30",
-      "book": "williamhill_us",
-      "model_spread": 9.1,
-      "pred": "66-57",
-      "type": "TOTAL",
-      "side": "UNDER 135.5",
-      "line": 135.5,
       "odds": -110,
       "edge_pts": 11.5,
       "ev_pct": 50.3,
@@ -1050,6 +1050,21 @@
       "ev_pct": 49.2,
       "model_prob": 0.414,
       "implied": 0.278
+    },
+    {
+      "game": "Fairfield Stags @ Saint Peter's Peacocks",
+      "time": "2026-03-07T01:30",
+      "book": "fliff",
+      "model_spread": 9.1,
+      "pred": "66-57",
+      "type": "TOTAL",
+      "side": "UNDER 136.5",
+      "line": 136.5,
+      "odds": -120,
+      "edge_pts": 12.5,
+      "ev_pct": 49.0,
+      "model_prob": 0.812,
+      "implied": 0.545
     },
     {
       "game": "Southern Miss Golden Eagles @ Texas State Bobcats",
@@ -1202,21 +1217,6 @@
       "implied": 0.256
     },
     {
-      "game": "Fairfield Stags @ Saint Peter's Peacocks",
-      "time": "2026-03-07T01:30",
-      "book": "lowvig",
-      "model_spread": 9.1,
-      "pred": "66-57",
-      "type": "TOTAL",
-      "side": "UNDER 133.5",
-      "line": 133.5,
-      "odds": -103,
-      "edge_pts": 9.5,
-      "ev_pct": 45.4,
-      "model_prob": 0.738,
-      "implied": 0.507
-    },
-    {
       "game": "Omaha Mavericks @ South Dakota Coyotes",
       "time": "2026-03-07T00:00",
       "book": "hardrockbet",
@@ -1247,6 +1247,21 @@
       "implied": 0.512
     },
     {
+      "game": "Fairfield Stags @ Saint Peter's Peacocks",
+      "time": "2026-03-07T01:30",
+      "book": "betmgm",
+      "model_spread": 9.1,
+      "pred": "66-57",
+      "type": "TOTAL",
+      "side": "UNDER 133.5",
+      "line": 133.5,
+      "odds": -105,
+      "edge_pts": 9.5,
+      "ev_pct": 44.0,
+      "model_prob": 0.738,
+      "implied": 0.512
+    },
+    {
       "game": "Bowling Green Falcons @ Eastern Michigan Eagles",
       "time": "2026-03-06T23:30",
       "book": "bovada",
@@ -1270,6 +1285,21 @@
       "type": "TOTAL",
       "side": "UNDER 150.0",
       "line": 150.0,
+      "odds": -110,
+      "edge_pts": 10.0,
+      "ev_pct": 43.2,
+      "model_prob": 0.75,
+      "implied": 0.524
+    },
+    {
+      "game": "Fairfield Stags @ Saint Peter's Peacocks",
+      "time": "2026-03-07T01:30",
+      "book": "williamhill_us",
+      "model_spread": 9.1,
+      "pred": "66-57",
+      "type": "TOTAL",
+      "side": "UNDER 134.0",
+      "line": 134.0,
       "odds": -110,
       "edge_pts": 10.0,
       "ev_pct": 43.2,
