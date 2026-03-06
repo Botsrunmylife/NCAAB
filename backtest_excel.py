@@ -2,7 +2,7 @@ import pandas as pd
 import xlwings as xw
 from pathlib import Path
 
-BOOK = "ncaab_dynamic_bracket.xlsx"
+BOOK = "ncaab_dynamic_bracket.xlsm"
 GAMES = "season_games_model_only.csv"
 OUT = "backtest_results.csv"
 BAD = "name_mismatch.csv"
