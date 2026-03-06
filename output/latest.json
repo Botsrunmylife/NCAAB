@@ -10,26 +10,26 @@
       "type": "ML",
       "side": "Lipscomb Bisons",
       "line": null,
-      "odds": 3000,
+      "odds": 2000,
       "edge_pts": null,
-      "ev_pct": 1899.5,
+      "ev_pct": 1254.5,
       "model_prob": 0.645,
-      "implied": 0.032
+      "implied": 0.048
     },
     {
       "game": "Northern Illinois Huskies @ Akron Zips",
       "time": "2026-03-06T23:00",
-      "book": "fanduel",
+      "book": "espnbet",
       "model_spread": 20.1,
       "pred": "77-57",
       "type": "ML",
       "side": "Northern Illinois Huskies",
       "line": null,
-      "odds": 2200,
+      "odds": 2500,
       "edge_pts": null,
-      "ev_pct": 468.1,
+      "ev_pct": 542.2,
       "model_prob": 0.247,
-      "implied": 0.043
+      "implied": 0.038
     },
     {
       "game": "North Carolina Tar Heels @ Duke Blue Devils",
@@ -167,6 +167,21 @@
       "implied": 0.182
     },
     {
+      "game": "Northeastern Huskies @ North Carolina A&T Aggies",
+      "time": "2026-03-06T19:00",
+      "book": "betparx",
+      "model_spread": 5.4,
+      "pred": "70-64",
+      "type": "SPREAD",
+      "side": "HOME North Carolina A&T Aggies",
+      "line": 15.5,
+      "odds": 112,
+      "edge_pts": 20.9,
+      "ev_pct": 80.2,
+      "model_prob": 0.85,
+      "implied": 0.472
+    },
+    {
       "game": "Denver Pioneers @ North Dakota Fighting Hawks",
       "time": "2026-03-07T02:30",
       "book": "lowvig",
@@ -182,16 +197,16 @@
       "implied": 0.474
     },
     {
-      "game": "Northeastern Huskies @ North Carolina A&T Aggies",
-      "time": "2026-03-06T19:00",
-      "book": "hardrockbet",
-      "model_spread": 5.4,
-      "pred": "70-64",
+      "game": "Charleston Southern Buccaneers @ Winthrop Eagles",
+      "time": "2026-03-06T19:30",
+      "book": "espnbet",
+      "model_spread": 14.7,
+      "pred": "77-62",
       "type": "SPREAD",
-      "side": "HOME North Carolina A&T Aggies",
-      "line": 16.5,
+      "side": "HOME Winthrop Eagles",
+      "line": 3.5,
       "odds": 100,
-      "edge_pts": 21.9,
+      "edge_pts": 18.2,
       "ev_pct": 70.0,
       "model_prob": 0.85,
       "implied": 0.5
@@ -207,21 +222,6 @@
       "line": 154.5,
       "odds": 100,
       "edge_pts": 14.5,
-      "ev_pct": 70.0,
-      "model_prob": 0.85,
-      "implied": 0.5
-    },
-    {
-      "game": "Florida Gulf Coast Eagles @ Lipscomb Bisons",
-      "time": "2026-03-06T19:30",
-      "book": "hardrockbet",
-      "model_spread": 10.7,
-      "pred": "73-62",
-      "type": "SPREAD",
-      "side": "HOME Lipscomb Bisons",
-      "line": 10.5,
-      "odds": 100,
-      "edge_pts": 21.2,
       "ev_pct": 70.0,
       "model_prob": 0.85,
       "implied": 0.5
@@ -287,19 +287,19 @@
       "implied": 0.507
     },
     {
-      "game": "Charleston Southern Buccaneers @ Winthrop Eagles",
-      "time": "2026-03-06T19:30",
-      "book": "draftkings",
-      "model_spread": 14.7,
-      "pred": "77-62",
+      "game": "Longwood Lancers @ UNC Asheville Bulldogs",
+      "time": "2026-03-06T23:00",
+      "book": "lowvig",
+      "model_spread": 10.6,
+      "pred": "69-59",
       "type": "SPREAD",
-      "side": "HOME Winthrop Eagles",
-      "line": 3.5,
-      "odds": -105,
-      "edge_pts": 18.2,
-      "ev_pct": 66.0,
-      "model_prob": 0.85,
-      "implied": 0.512
+      "side": "HOME UNC Asheville Bulldogs",
+      "line": 1.0,
+      "odds": -104,
+      "edge_pts": 11.6,
+      "ev_pct": 66.3,
+      "model_prob": 0.848,
+      "implied": 0.51
     },
     {
       "game": "Stetson Hatters @ Austin Peay Governors",
@@ -319,7 +319,7 @@
     {
       "game": "Stetson Hatters @ Austin Peay Governors",
       "time": "2026-03-06T22:00",
-      "book": "espnbet",
+      "book": "draftkings",
       "model_spread": 10.1,
       "pred": "72-62",
       "type": "TOTAL",
@@ -497,21 +497,6 @@
       "implied": 0.512
     },
     {
-      "game": "Longwood Lancers @ UNC Asheville Bulldogs",
-      "time": "2026-03-06T23:00",
-      "book": "lowvig",
-      "model_spread": 10.6,
-      "pred": "69-59",
-      "type": "SPREAD",
-      "side": "HOME UNC Asheville Bulldogs",
-      "line": 1.0,
-      "odds": -106,
-      "edge_pts": 11.6,
-      "ev_pct": 64.8,
-      "model_prob": 0.848,
-      "implied": 0.515
-    },
-    {
       "game": "Providence Friars @ Georgetown Hoyas",
       "time": "2026-03-08T01:00",
       "book": "betparx",
@@ -525,6 +510,36 @@
       "ev_pct": 64.4,
       "model_prob": 0.85,
       "implied": 0.517
+    },
+    {
+      "game": "Florida Gulf Coast Eagles @ Lipscomb Bisons",
+      "time": "2026-03-06T19:30",
+      "book": "fanduel",
+      "model_spread": 10.7,
+      "pred": "73-62",
+      "type": "SPREAD",
+      "side": "HOME Lipscomb Bisons",
+      "line": 13.5,
+      "odds": -108,
+      "edge_pts": 24.2,
+      "ev_pct": 63.7,
+      "model_prob": 0.85,
+      "implied": 0.519
+    },
+    {
+      "game": "Northern Illinois Huskies @ Akron Zips",
+      "time": "2026-03-06T23:00",
+      "book": "ballybet",
+      "model_spread": 20.1,
+      "pred": "77-57",
+      "type": "TOTAL",
+      "side": "UNDER 154.5",
+      "line": 154.5,
+      "odds": -108,
+      "edge_pts": 19.5,
+      "ev_pct": 63.7,
+      "model_prob": 0.85,
+      "implied": 0.519
     },
     {
       "game": "Western Michigan Broncos @ Kent State Golden Flashes",
@@ -619,7 +634,7 @@
     {
       "game": "Charleston Southern Buccaneers @ Winthrop Eagles",
       "time": "2026-03-06T19:30",
-      "book": "hardrockbet",
+      "book": "espnbet",
       "model_spread": 14.7,
       "pred": "77-62",
       "type": "TOTAL",
@@ -627,36 +642,6 @@
       "line": 157.5,
       "odds": -110,
       "edge_pts": 17.5,
-      "ev_pct": 62.3,
-      "model_prob": 0.85,
-      "implied": 0.524
-    },
-    {
-      "game": "Charleston Southern Buccaneers @ Winthrop Eagles",
-      "time": "2026-03-06T19:30",
-      "book": "fanatics",
-      "model_spread": 14.7,
-      "pred": "77-62",
-      "type": "TOTAL",
-      "side": "UNDER 158.5",
-      "line": 158.5,
-      "odds": -110,
-      "edge_pts": 18.5,
-      "ev_pct": 62.3,
-      "model_prob": 0.85,
-      "implied": 0.524
-    },
-    {
-      "game": "Charleston Southern Buccaneers @ Winthrop Eagles",
-      "time": "2026-03-06T19:30",
-      "book": "draftkings",
-      "model_spread": 14.7,
-      "pred": "77-62",
-      "type": "TOTAL",
-      "side": "UNDER 159.5",
-      "line": 159.5,
-      "odds": -110,
-      "edge_pts": 19.5,
       "ev_pct": 62.3,
       "model_prob": 0.85,
       "implied": 0.524
@@ -702,21 +687,6 @@
       "line": 156.5,
       "odds": -110,
       "edge_pts": 21.5,
-      "ev_pct": 62.3,
-      "model_prob": 0.85,
-      "implied": 0.524
-    },
-    {
-      "game": "Northern Illinois Huskies @ Akron Zips",
-      "time": "2026-03-06T23:00",
-      "book": "fliff",
-      "model_spread": 20.1,
-      "pred": "77-57",
-      "type": "TOTAL",
-      "side": "UNDER 154.5",
-      "line": 154.5,
-      "odds": -110,
-      "edge_pts": 19.5,
       "ev_pct": 62.3,
       "model_prob": 0.85,
       "implied": 0.524
@@ -1202,24 +1172,9 @@
       "implied": 0.524
     },
     {
-      "game": "Northeastern Huskies @ North Carolina A&T Aggies",
-      "time": "2026-03-06T19:00",
-      "book": "betmgm",
-      "model_spread": 5.4,
-      "pred": "70-64",
-      "type": "TOTAL",
-      "side": "UNDER 154.5",
-      "line": 154.5,
-      "odds": -115,
-      "edge_pts": 16.5,
-      "ev_pct": 58.9,
-      "model_prob": 0.85,
-      "implied": 0.535
-    },
-    {
       "game": "Charleston Southern Buccaneers @ Winthrop Eagles",
       "time": "2026-03-06T19:30",
-      "book": "betmgm",
+      "book": "hardrockbet",
       "model_spread": 14.7,
       "pred": "77-62",
       "type": "TOTAL",
@@ -1227,21 +1182,6 @@
       "line": 156.5,
       "odds": -115,
       "edge_pts": 16.5,
-      "ev_pct": 58.9,
-      "model_prob": 0.85,
-      "implied": 0.535
-    },
-    {
-      "game": "Stetson Hatters @ Austin Peay Governors",
-      "time": "2026-03-06T22:00",
-      "book": "draftkings",
-      "model_spread": 10.1,
-      "pred": "72-62",
-      "type": "TOTAL",
-      "side": "UNDER 153.5",
-      "line": 153.5,
-      "odds": -115,
-      "edge_pts": 18.5,
       "ev_pct": 58.9,
       "model_prob": 0.85,
       "implied": 0.535
@@ -1337,21 +1277,6 @@
       "implied": 0.512
     },
     {
-      "game": "Charleston Southern Buccaneers @ Winthrop Eagles",
-      "time": "2026-03-06T19:30",
-      "book": "betparx",
-      "model_spread": 14.7,
-      "pred": "77-62",
-      "type": "TOTAL",
-      "side": "UNDER 160.5",
-      "line": 160.5,
-      "odds": -117,
-      "edge_pts": 20.5,
-      "ev_pct": 57.6,
-      "model_prob": 0.85,
-      "implied": 0.539
-    },
-    {
       "game": "The Citadel Bulldogs @ Chattanooga Mocs",
       "time": "2026-03-06T22:00",
       "book": "betonlineag",
@@ -1440,6 +1365,21 @@
       "ev_pct": 56.3,
       "model_prob": 0.503,
       "implied": 0.322
+    },
+    {
+      "game": "Charleston Southern Buccaneers @ Winthrop Eagles",
+      "time": "2026-03-06T19:30",
+      "book": "draftkings",
+      "model_spread": 14.7,
+      "pred": "77-62",
+      "type": "TOTAL",
+      "side": "UNDER 158.5",
+      "line": 158.5,
+      "odds": -120,
+      "edge_pts": 18.5,
+      "ev_pct": 55.8,
+      "model_prob": 0.85,
+      "implied": 0.545
     },
     {
       "game": "Northeastern Huskies @ North Carolina A&T Aggies",
@@ -1952,6 +1892,21 @@
       "implied": 0.524
     },
     {
+      "game": "Northeastern Huskies @ North Carolina A&T Aggies",
+      "time": "2026-03-06T19:00",
+      "book": "betmgm",
+      "model_spread": 5.4,
+      "pred": "70-64",
+      "type": "TOTAL",
+      "side": "UNDER 159.5",
+      "line": 159.5,
+      "odds": -160,
+      "edge_pts": 21.5,
+      "ev_pct": 38.1,
+      "model_prob": 0.85,
+      "implied": 0.615
+    },
+    {
       "game": "Columbia Lions @ Harvard Crimson",
       "time": "2026-03-07T00:00",
       "book": "lowvig",
@@ -2297,21 +2252,6 @@
       "implied": 0.524
     },
     {
-      "game": "Longwood Lancers @ UNC Asheville Bulldogs",
-      "time": "2026-03-06T23:00",
-      "book": "betonlineag",
-      "model_spread": 10.6,
-      "pred": "69-59",
-      "type": "ML",
-      "side": "UNC Asheville Bulldogs",
-      "line": null,
-      "odds": 100,
-      "edge_pts": null,
-      "ev_pct": 28.5,
-      "model_prob": 0.642,
-      "implied": 0.5
-    },
-    {
       "game": "Oklahoma Sooners @ Texas Longhorns",
       "time": "2026-03-08T01:30",
       "book": "fanduel",
@@ -2340,6 +2280,21 @@
       "ev_pct": 28.1,
       "model_prob": 0.671,
       "implied": 0.524
+    },
+    {
+      "game": "Longwood Lancers @ UNC Asheville Bulldogs",
+      "time": "2026-03-06T23:00",
+      "book": "betonlineag",
+      "model_spread": 10.6,
+      "pred": "69-59",
+      "type": "ML",
+      "side": "UNC Asheville Bulldogs",
+      "line": null,
+      "odds": -102,
+      "edge_pts": null,
+      "ev_pct": 27.2,
+      "model_prob": 0.642,
+      "implied": 0.505
     },
     {
       "game": "South Carolina Gamecocks @ Ole Miss Rebels",
@@ -2627,6 +2582,21 @@
       "implied": 0.522
     },
     {
+      "game": "Northern Illinois Huskies @ Akron Zips",
+      "time": "2026-03-06T23:00",
+      "book": "ballybet",
+      "model_spread": 20.1,
+      "pred": "77-57",
+      "type": "SPREAD",
+      "side": "AWAY Northern Illinois Huskies",
+      "line": 23.5,
+      "odds": -109,
+      "edge_pts": 3.4,
+      "ev_pct": 15.4,
+      "model_prob": 0.602,
+      "implied": 0.522
+    },
+    {
       "game": "VMI Keydets @ UNC Greensboro Spartans",
       "time": "2026-03-07T00:30",
       "book": "lowvig",
@@ -2654,21 +2624,6 @@
       "edge_pts": 3.1,
       "ev_pct": 13.2,
       "model_prob": 0.593,
-      "implied": 0.524
-    },
-    {
-      "game": "Florida Gulf Coast Eagles @ Lipscomb Bisons",
-      "time": "2026-03-06T19:30",
-      "book": "espnbet",
-      "model_spread": 10.7,
-      "pred": "73-62",
-      "type": "TOTAL",
-      "side": "OVER 132.5",
-      "line": 132.5,
-      "odds": -110,
-      "edge_pts": 3.5,
-      "ev_pct": 12.2,
-      "model_prob": 0.588,
       "implied": 0.524
     },
     {
