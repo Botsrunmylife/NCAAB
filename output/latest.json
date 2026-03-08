@@ -1324,17 +1324,17 @@
     {
       "game": "Penn State Nittany Lions @ Rutgers Scarlet Knights",
       "time": "2026-03-08T16:00",
-      "book": "espnbet",
+      "book": "fanduel",
       "model_spread": 1.3,
       "pred": "66-65",
       "type": "SPREAD",
       "side": "AWAY Penn State Nittany Lions",
       "line": 4.5,
-      "odds": 100,
+      "odds": -102,
       "edge_pts": 3.2,
-      "ev_pct": 19.2,
+      "ev_pct": 18.0,
       "model_prob": 0.596,
-      "implied": 0.5
+      "implied": 0.505
     },
     {
       "game": "Northern Iowa Panthers @ UIC Flames",
