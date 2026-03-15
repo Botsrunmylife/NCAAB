@@ -5,19 +5,19 @@
     {
       "game": "Purdue Boilermakers @ Michigan Wolverines",
       "time": "2026-03-15T19:32",
-      "book": "espnbet",
+      "book": "bovada",
       "model_spread": 11.85,
       "pred": "82-73",
       "model_total": 155.8,
       "ff_adj": -0.14,
       "type": "SPREAD",
       "side": "HOME Michigan Wolverines",
-      "line": -2.5,
-      "odds": -110,
-      "edge_pts": 9.4,
-      "ev_pct": 49.0,
-      "model_prob": 0.78,
-      "implied": 0.524
+      "line": -1.5,
+      "odds": -120,
+      "edge_pts": 10.4,
+      "ev_pct": 48.6,
+      "model_prob": 0.81,
+      "implied": 0.545
     },
     {
       "game": "Purdue Boilermakers @ Michigan Wolverines",
